@@ -1,0 +1,112 @@
+
+Testing addFirst and addLast
+Sam
+Bill
+Karen
+Leslie
+
+Testing add(Type, obj)
+Sam
+Bill
+Karen
+Leslie
+Dylan
+Cacey
+Adam
+Jen
+Sean
+Max
+Matt
+Tony
+Ruan
+William
+Noah
+Kacey
+Alex
+Brett
+Chris
+Jacob
+
+Testing removeLast(); and removeFirst()
+Karen
+Leslie
+Dylan
+Cacey
+Adam
+Jen
+Sean
+Max
+Matt
+Tony
+Ruan
+William
+Noah
+Kacey
+Alex
+Brett
+
+****Testing print backwards****
+Brett
+Alex
+Kacey
+Noah
+William
+Ruan
+Tony
+Matt
+Max
+Sean
+Jen
+Adam
+Cacey
+Dylan
+Leslie
+
+Testing remove(Type object)
+Karen
+Leslie
+Dylan
+Cacey
+Adam
+Jen
+Sean
+Max
+Matt
+Tony
+Ruan
+William
+Noah
+Kacey
+Alex
+
+Testing remove(Type obj)
+
+Testing add(int i, Type obj)
+Unitas
+Jim
+Karen
+Leslie
+Brady
+Dylan
+Cacey
+Adam
+Gill
+Jen
+Sean
+Max
+Matt
+Tony
+Ruan
+William
+Noah
+Kacey
+java.lang.IndexOutOfBoundsException: 'ii' is greater than the size or >=0, it is okay if 'i' is equal to the size, in that case we would be putting it on the end
+
+Testing various methods
+Adding Joe true
+Brady
+null
+removing Matt false
+Exception in thread "main" java.lang.NullPointerException
+	at LinkedListDoubly.add(LinkedListDoubly.java:136)
+	at LinkedListDoublyDriver.main(LinkedListDoublyDriver.java:71)
